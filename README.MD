@@ -12,4 +12,3 @@ Projeto construído no evento Next Level Week da RocketSeat
 - HTML
 - CSS
 - GIT e  GitHub
-
